@@ -9,5 +9,6 @@
 <body>
     <x-navbar mode="navbar"/>
     <x-hero />
+    <x-feature-section />
 </body>
 </html>
