@@ -8,5 +8,6 @@
 </head>
 <body>
     <x-navbar mode="navbar"/>
+    <x-hero />
 </body>
 </html>
